@@ -7,4 +7,4 @@
 -HTML
 -CSS
 
-[WATCH](https://alehnovich-vladimir.github.io/Abito/)
+[Watch](https://alehnovich-vladimir.github.io/Abito/)
